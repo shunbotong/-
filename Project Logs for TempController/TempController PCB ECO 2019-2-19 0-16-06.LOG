@@ -1,0 +1,218 @@
+Added Component: Designator=D1(LED-0805Y)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D2(LED-0805Y)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D3(LED-0805Y)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D4(LED-0805Y)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D5(LED-0805Y)
+Add component. Clean all parameters for all variants
+Added Component: Designator=DHT11(DHT11)
+Add component. Clean all parameters for all variants
+Added Component: Designator=HumidityMax(KF128-3.81-2P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=HumidityMin(KF128-3.81-2P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JK1(SRD-C_B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JK2(SRD-C_B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JK3(SRD-C_B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JK4(SRD-C_B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JK5(SRD-C_B)
+Add component. Clean all parameters for all variants
+Added Component: Designator=MPU-6050(MPU-6050)
+Add component. Clean all parameters for all variants
+Added Component: Designator=NANO(ArduinoNano)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q1(TO252)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q2(TO252)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q3(TO252)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q4(TO252)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q5(TO252)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1(0805R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2(0805R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R3(0805R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R4(0805R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R5(0805R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R6(0805R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R7(0805R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R8(0805R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R9(0805R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R10(0805R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R11(0805R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R12(0805R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R13(0805R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R14(0805R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R15(0805R)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Shocks(KF128-3.81-2P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TempMax(KF128-3.81-2P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TempMin(KF128-3.81-2P)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=A0 Pin=DHT11-2
+Added Pin To Net: NetName=A0 Pin=NANO-19
+Added Net: Name=A0
+Added Pin To Net: NetName=A1 Pin=MPU-6050-8
+Added Pin To Net: NetName=A1 Pin=NANO-20
+Added Net: Name=A1
+Added Pin To Net: NetName=D2 Pin=NANO-5
+Added Pin To Net: NetName=D2 Pin=NANO-5
+Added Pin To Net: NetName=D2 Pin=R1-1
+Added Net: Name=D2
+Added Pin To Net: NetName=D3 Pin=NANO-6
+Added Pin To Net: NetName=D3 Pin=NANO-6
+Added Pin To Net: NetName=D3 Pin=R3-1
+Added Net: Name=D3
+Added Pin To Net: NetName=D4 Pin=NANO-7
+Added Pin To Net: NetName=D4 Pin=NANO-7
+Added Pin To Net: NetName=D4 Pin=R9-1
+Added Net: Name=D4
+Added Pin To Net: NetName=D5 Pin=NANO-8
+Added Pin To Net: NetName=D5 Pin=NANO-8
+Added Pin To Net: NetName=D5 Pin=R11-1
+Added Net: Name=D5
+Added Pin To Net: NetName=D6 Pin=NANO-9
+Added Pin To Net: NetName=D6 Pin=R7-1
+Added Net: Name=D6
+Added Pin To Net: NetName=GND Pin=D1-K
+Added Pin To Net: NetName=GND Pin=D2-K
+Added Pin To Net: NetName=GND Pin=D3-K
+Added Pin To Net: NetName=GND Pin=D4-K
+Added Pin To Net: NetName=GND Pin=D5-K
+Added Pin To Net: NetName=GND Pin=DHT11-4
+Added Pin To Net: NetName=GND Pin=MPU-6050-2
+Added Pin To Net: NetName=GND Pin=Q1-S
+Added Pin To Net: NetName=GND Pin=Q2-S
+Added Pin To Net: NetName=GND Pin=Q3-S
+Added Pin To Net: NetName=GND Pin=Q4-S
+Added Pin To Net: NetName=GND Pin=Q5-S
+Added Pin To Net: NetName=GND Pin=R5-2
+Added Pin To Net: NetName=GND Pin=R6-2
+Added Pin To Net: NetName=GND Pin=R13-2
+Added Pin To Net: NetName=GND Pin=R14-2
+Added Pin To Net: NetName=GND Pin=R15-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetD1_A Pin=D1-A
+Added Pin To Net: NetName=NetD1_A Pin=R2-2
+Added Net: Name=NetD1_A
+Added Pin To Net: NetName=NetD2_A Pin=D2-A
+Added Pin To Net: NetName=NetD2_A Pin=R4-2
+Added Net: Name=NetD2_A
+Added Pin To Net: NetName=NetD3_A Pin=D3-A
+Added Pin To Net: NetName=NetD3_A Pin=R8-2
+Added Net: Name=NetD3_A
+Added Pin To Net: NetName=NetD4_A Pin=D4-A
+Added Pin To Net: NetName=NetD4_A Pin=R10-2
+Added Net: Name=NetD4_A
+Added Pin To Net: NetName=NetD5_A Pin=D5-A
+Added Pin To Net: NetName=NetD5_A Pin=R12-2
+Added Net: Name=NetD5_A
+Added Pin To Net: NetName=NetHumidityMax_1 Pin=HumidityMax-1
+Added Pin To Net: NetName=NetHumidityMax_1 Pin=JK4-3
+Added Net: Name=NetHumidityMax_1
+Added Pin To Net: NetName=NetHumidityMax_2 Pin=HumidityMax-2
+Added Pin To Net: NetName=NetHumidityMax_2 Pin=JK4-5
+Added Net: Name=NetHumidityMax_2
+Added Pin To Net: NetName=NetHumidityMin_1 Pin=HumidityMin-1
+Added Pin To Net: NetName=NetHumidityMin_1 Pin=JK5-3
+Added Net: Name=NetHumidityMin_1
+Added Pin To Net: NetName=NetHumidityMin_2 Pin=HumidityMin-2
+Added Pin To Net: NetName=NetHumidityMin_2 Pin=JK5-5
+Added Net: Name=NetHumidityMin_2
+Added Pin To Net: NetName=NetJK1_2 Pin=JK1-2
+Added Pin To Net: NetName=NetJK1_2 Pin=Q1-D
+Added Net: Name=NetJK1_2
+Added Pin To Net: NetName=NetJK1_3 Pin=JK1-3
+Added Pin To Net: NetName=NetJK1_3 Pin=TempMax-1
+Added Net: Name=NetJK1_3
+Added Pin To Net: NetName=NetJK1_5 Pin=JK1-5
+Added Pin To Net: NetName=NetJK1_5 Pin=TempMax-2
+Added Net: Name=NetJK1_5
+Added Pin To Net: NetName=NetJK2_2 Pin=JK2-2
+Added Pin To Net: NetName=NetJK2_2 Pin=Q2-D
+Added Net: Name=NetJK2_2
+Added Pin To Net: NetName=NetJK2_3 Pin=JK2-3
+Added Pin To Net: NetName=NetJK2_3 Pin=TempMin-1
+Added Net: Name=NetJK2_3
+Added Pin To Net: NetName=NetJK2_5 Pin=JK2-5
+Added Pin To Net: NetName=NetJK2_5 Pin=TempMin-2
+Added Net: Name=NetJK2_5
+Added Pin To Net: NetName=NetJK3_2 Pin=JK3-2
+Added Pin To Net: NetName=NetJK3_2 Pin=Q3-D
+Added Net: Name=NetJK3_2
+Added Pin To Net: NetName=NetJK3_3 Pin=JK3-3
+Added Pin To Net: NetName=NetJK3_3 Pin=Shocks-1
+Added Net: Name=NetJK3_3
+Added Pin To Net: NetName=NetJK3_5 Pin=JK3-5
+Added Pin To Net: NetName=NetJK3_5 Pin=Shocks-2
+Added Net: Name=NetJK3_5
+Added Pin To Net: NetName=NetJK4_2 Pin=JK4-2
+Added Pin To Net: NetName=NetJK4_2 Pin=Q4-D
+Added Net: Name=NetJK4_2
+Added Pin To Net: NetName=NetJK5_2 Pin=JK5-2
+Added Pin To Net: NetName=NetJK5_2 Pin=Q5-D
+Added Net: Name=NetJK5_2
+Added Pin To Net: NetName=NetQ1_G Pin=Q1-G
+Added Pin To Net: NetName=NetQ1_G Pin=R1-2
+Added Pin To Net: NetName=NetQ1_G Pin=R2-1
+Added Pin To Net: NetName=NetQ1_G Pin=R5-1
+Added Net: Name=NetQ1_G
+Added Pin To Net: NetName=NetQ2_G Pin=Q2-G
+Added Pin To Net: NetName=NetQ2_G Pin=R3-2
+Added Pin To Net: NetName=NetQ2_G Pin=R4-1
+Added Pin To Net: NetName=NetQ2_G Pin=R6-1
+Added Net: Name=NetQ2_G
+Added Pin To Net: NetName=NetQ3_G Pin=Q3-G
+Added Pin To Net: NetName=NetQ3_G Pin=R7-2
+Added Pin To Net: NetName=NetQ3_G Pin=R8-1
+Added Pin To Net: NetName=NetQ3_G Pin=R13-1
+Added Net: Name=NetQ3_G
+Added Pin To Net: NetName=NetQ4_G Pin=Q4-G
+Added Pin To Net: NetName=NetQ4_G Pin=R9-2
+Added Pin To Net: NetName=NetQ4_G Pin=R10-1
+Added Pin To Net: NetName=NetQ4_G Pin=R14-1
+Added Net: Name=NetQ4_G
+Added Pin To Net: NetName=NetQ5_G Pin=Q5-G
+Added Pin To Net: NetName=NetQ5_G Pin=R11-2
+Added Pin To Net: NetName=NetQ5_G Pin=R12-1
+Added Pin To Net: NetName=NetQ5_G Pin=R15-1
+Added Net: Name=NetQ5_G
+Added Pin To Net: NetName=SCL Pin=MPU-6050-3
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=MPU-6050-4
+Added Net: Name=SDA
+Added Pin To Net: NetName=VCC Pin=DHT11-1
+Added Pin To Net: NetName=VCC Pin=JK1-1
+Added Pin To Net: NetName=VCC Pin=JK2-1
+Added Pin To Net: NetName=VCC Pin=JK3-1
+Added Pin To Net: NetName=VCC Pin=JK4-1
+Added Pin To Net: NetName=VCC Pin=JK5-1
+Added Pin To Net: NetName=VCC Pin=MPU-6050-1
+Added Net: Name=VCC
+Added Class: Name=TempController
+Added Room: Name=TempController

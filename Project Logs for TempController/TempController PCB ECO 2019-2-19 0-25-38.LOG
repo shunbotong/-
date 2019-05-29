@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=NetHumidityMax_1 Pin=JK4-3
+Removed Pin From Net: NetName=NetHumidityMax_2 Pin=JK4-5
+Removed Pin From Net: NetName=NetHumidityMin_1 Pin=JK5-3
+Removed Pin From Net: NetName=NetHumidityMin_2 Pin=JK5-5
+Removed Pin From Net: NetName=NetJK3_3 Pin=Shocks-1
+Removed Pin From Net: NetName=NetJK3_5 Pin=Shocks-2
+Removed Pin From Net: NetName=NetJK1_3 Pin=TempMax-1
+Removed Pin From Net: NetName=NetJK1_5 Pin=TempMax-2
+Removed Pin From Net: NetName=NetJK2_3 Pin=TempMin-1
+Removed Pin From Net: NetName=NetJK2_5 Pin=TempMin-2
+Added Pin To Net: NetName=NetHumidityMax_2 Pin=JK4-3
+Added Pin To Net: NetName=NetHumidityMax_1 Pin=JK4-5
+Added Pin To Net: NetName=NetHumidityMin_2 Pin=JK5-3
+Added Pin To Net: NetName=NetHumidityMin_1 Pin=JK5-5
+Added Pin To Net: NetName=NetJK3_5 Pin=Shocks-1
+Added Pin To Net: NetName=NetJK3_3 Pin=Shocks-2
+Added Pin To Net: NetName=NetJK1_5 Pin=TempMax-1
+Added Pin To Net: NetName=NetJK1_3 Pin=TempMax-2
+Added Pin To Net: NetName=NetJK2_5 Pin=TempMin-1
+Added Pin To Net: NetName=NetJK2_3 Pin=TempMin-2
+Added Room: Name=TempController

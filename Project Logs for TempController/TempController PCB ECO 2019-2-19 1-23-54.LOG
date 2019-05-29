@@ -1,0 +1,15 @@
+Added Component: Designator=NANO(ArduinoNano)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=D2 Pin=NANO-5
+Added Pin To Net: NetName=D3 Pin=NANO-6
+Added Pin To Net: NetName=D4 Pin=NANO-7
+Added Pin To Net: NetName=D5 Pin=NANO-8
+Added Pin To Net: NetName=D6 Pin=NANO-9
+Added Pin To Net: NetName=A0 Pin=NANO-19
+Added Pin To Net: NetName=A1 Pin=NANO-20
+Added Pin To Net: NetName=SDA Pin=NANO-23
+Added Pin To Net: NetName=SCL Pin=NANO-24
+Added Pin To Net: NetName=VCC Pin=NANO-27
+Added Pin To Net: NetName=GND Pin=NANO-29
+Added Member To Class: ClassName=TempController Member=Component NANO ArduinoNano
+Added Room: Name=TempController
